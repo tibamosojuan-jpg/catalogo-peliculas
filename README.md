@@ -41,7 +41,7 @@ El estado compartido (`query`, `filters`, `favorites`, `ratings`, `selectedId`) 
 Requisitos: Node.js 18 o superior.
 
 ```bash
-git clone <URL-DEL-REPOSITORIO>
+git clone https://github.com/tibamosojuan-jpg/catalogo-peliculas.git
 cd catalogo-peliculas
 npm install
 npm run dev
@@ -49,6 +49,7 @@ npm run dev
 
 Luego abrir la URL que muestra la terminal (por defecto http://localhost:5173).
 
+## Aplicación publicada
+https://catalogo-peliculas-dun.vercel.app
 ## Autor
-
 Juan Esteban
